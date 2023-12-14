@@ -1,5 +1,6 @@
 # Routeur-ADA
-Stockage et exploitation de tables de routage réalisé en 1ère année de formation à l'ENSEEIHT  
+Stockage et exploitation de tables de routage  
+Projet de programmation impérative réalisé en 1ère année de formation à l'ENSEEIHT  
 
 `Manuel.pdf` : le manuel d'utilisation du programme  
 `Rapport.pdf` : rapport rédigé pour ce projet  
